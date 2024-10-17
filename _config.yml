@@ -9,9 +9,7 @@ highlighter: pygments
 # The path structure for blog posts.
 
 # Sections on the "people" page.
-roles:
-  - key: faculty
-    name: 教师 Faculty
+
 
 
 
