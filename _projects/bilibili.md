@@ -1,11 +1,11 @@
 ---
-title: SLICES:我的抖音id是123456
+title: 我的抖音id是123456
 notitle: false
 
 description: |
 
 
-layout: project
+
 ---
 
 ## 简介 Introduction
