@@ -28,9 +28,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 个人信息  Personal Information
     link: /
-  - title: 科研项目 Research
+  - title: 交流平台 Communication Platform
     link: /research.html
-  - title: 论文 Publications
+  - title: 更多 More
     link: /publications.html
