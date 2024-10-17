@@ -20,9 +20,9 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 base: ''
 
 # make pages for the _projects folder
-collections:
-  projects:
-    output: true
+#collections:
+  #projects:
+    #output: true
 
 # Navigation bar links.
 navigation:
