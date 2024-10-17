@@ -4,7 +4,7 @@ url: https://xianshenhe.github.io/
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
-highlighter: pygments
+
 
 # The path structure for blog posts.
 
